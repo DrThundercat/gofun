@@ -1,0 +1,70 @@
+dn: uid=jdoe,ou=fruit,ou=type,o=farmers
+cn: John Q. Doe
+mail: john.q.doe@example.com
+objectClass: inetOrgPerson
+sn: Doe
+uid: jdoe
+
+dn: uid=jdoe,ou=fruit,ou=type,o=farmers
+cn: John Q. Doe
+mail: john.q.doe@example.com
+objectClass: inetOrgPerson
+sn: Doe
+uid: jdoe
+
+dn: uid=jdoe,ou=fruit,ou=type,o=farmers
+cn: John Q. Doe
+mail: john.q.doe@example.com
+objectClass: inetOrgPerson
+sn: Doe
+uid: jdoe
+
+dn: uid=jdoe,ou=fruit,ou=type,o=farmers
+cn: John Q. Doe
+mail: john.q.doe@example.com
+objectClass: inetOrgPerson
+sn: Doe
+uid: jdoe
+
+dn: uid=jdoe,ou=fruit,ou=type,o=farmers
+cn: John Q. Doe
+mail: john.q.doe@example.com
+objectClass: inetOrgPerson
+sn: Doe
+uid: jdoe
+
+dn: uid=jdoe,ou=fruit,ou=type,o=farmers
+cn: John Q. Doe
+mail: john.q.doe@example.com
+objectClass: inetOrgPerson
+sn: Doe
+uid: jdoe
+
+dn: uid=jdoe,ou=fruit,ou=type,o=farmers
+cn: John Q. Doe
+mail: john.q.doe@example.com
+objectClass: inetOrgPerson
+sn: Doe
+uid: jdoe
+
+dn: uid=jdoe,ou=fruit,ou=type,o=farmers
+cn: John Q. Doe
+mail: john.q.doe@example.com
+objectClass: inetOrgPerson
+sn: Doe
+uid: jdoe
+
+dn: uid=jdoe,ou=fruit,ou=type,o=farmers
+cn: John Q. Doe
+mail: john.q.doe@example.com
+objectClass: inetOrgPerson
+sn: Doe
+uid: jdoe
+
+dn: uid=jdoe,ou=fruit,ou=type,o=farmers
+cn: John Q. Doe
+mail: john.q.doe@example.com
+objectClass: inetOrgPerson
+sn: Doe
+uid: jdoe
+
